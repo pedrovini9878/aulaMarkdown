@@ -33,5 +33,17 @@ Não Funcionais: Especificam atributos de qualidade do sistema (exemplo: tempo d
 Interface: Detalham as interações do sistema com os usuários ou outros sistemas.
 Usuário: Representam as necessidades e expectativas dos usuários finais.
 Sistema: Descrevem as funcionalidades e restrições do sistema como um todo.
-# pesquisa Deverá conter no mínimo 2 imagens
+![Alt ou título da imagem](https://conteudo.catolica.edu.br/conteudos/nbt_cursos/engenharia_requisitos/tema_02/img/img02.png)
+![Alt ou título da imagem](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHnURM1vvPuKL5sY_AWkIxMgaYndZPqUsjlHrTedrAlRTsgLf8MshDXJj_mK0ClapEo3KeevIqoge7qRKCRYVIXpTHgOOr8Ou7LAZs4odrdEVEogfxQ6JLelITn_GsWTTYBu__BWMqlLE/s1600/ProcessoEngenhariaReq_original.png)
+![image](https://github.com/pedrovini9878/aulaMarkdown/assets/164562127/79424715-f425-4d5b-ab2c-23ec64db4591)
+Modelagem de Requisitos:
+
+IEEE - Institute of Electrical and Electronics Engineers: O IEEE é uma autoridade reconhecida em engenharia de software e oferece uma variedade de recursos sobre modelagem de requisitos, incluindo artigos, conferências e padrões.
+International Requirements Engineering Board (IREB): O IREB é uma organização internacional que promove as melhores práticas em engenharia de requisitos. Seu site oferece artigos, guias e materiais de treinamento relacionados à modelagem de requisitos.
+Prototipagem Rápida:
+
+Interaction Design Foundation (IDF): A IDF é uma organização sem fins lucrativos dedicada ao design de interação. Eles oferecem cursos e materiais sobre prototipagem rápida e outros aspectos do design de interação.
+Usability.gov: Este site do governo dos EUA oferece recursos sobre usabilidade e design centrado no usuário, incluindo informações sobre prototipagem rápida e testes de usabilidade.
+
+
 
